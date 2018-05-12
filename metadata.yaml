@@ -1,0 +1,34 @@
+_repo: Endless-Amusement--13-A-Collection-of-Nearly-400-Entertaining-Experiments-in-Various-Branches__32492
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Unknown
+    gutenberg_agent_id: '49'
+    url: http://www.gutenberg.org/2009/agents/49
+    wikipedia: http://www.gutenberg.org/browse/authors/a#a216
+description: ''
+gutenberg_issued: '2010-05-23'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '32492'
+  lccn: '05017772'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Science -- Experiments'
+- !lcc 'Q'
+- !lcsh 'Magic tricks'
+- !lcsh 'Fireworks'
+- !lcsh 'Card tricks'
+- !lcsh 'Scientific recreations'
+title: "Endless Amusement\r\nA Collection of Nearly 400 Entertaining Experiments in\
+  \ Various Branches of Science; Including Acoustics, Electricity, Magnetism, Arithmetic,\
+  \ Hydraulics, Mechanics, Chemistry, Hydrostatics, Optics; Wonders of the Air-Pump;\
+  \ All the Popular Tricks and Changes of the Cards, &c., &c. to Which is Added, a\
+  \ Complete System of Pyrotechny; Or, the Art of Making Fire-works."
+url: http://www.gutenberg.org/ebooks/32492
