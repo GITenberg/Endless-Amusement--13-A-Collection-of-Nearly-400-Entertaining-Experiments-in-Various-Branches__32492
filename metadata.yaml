@@ -10,6 +10,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/49
     wikipedia: http://www.gutenberg.org/browse/authors/a#a216
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/32492#Endless-Amusement--13-A-Collection-of-Nearly-400-Entertaining-Experiments-in-Various-Branches_
 gutenberg_issued: '2010-05-23'
 gutenberg_type: Text
 identifiers:
